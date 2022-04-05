@@ -41,7 +41,10 @@ IMG = "https://telegra.ph/file/6c7f2cbb5af2732b723d7.jpg"
 REPLY_MARKUP = InlineKeyboardMarkup(
     [
        [  
-           InlineKeyboardButton("☘️ Group ☘️", url="https://t.me/s")
+           InlineKeyboardButton("🍃Our Channel🍃", url="https://t.me/Dr_Stranger_Botz_Infinity")
+           InlineKeyboardButton("🍂Our Group🍂", url="https://t.me/Dr_Stranger_Botz_Infinity_Chat")
+           InlineKeyboardButton("⚙️DᕮᐯᕮᒪOᑭᕮR⚙️", url="https://t.me/Dr_Stranger_XD")
+           InlineKeyboardButton("🧰My Source Code🧰", url="https://github.com/Dr-Stranger-Botz-Infinity/Link-Shortner-Ro-Bot")
        ],
     ]
 )
@@ -73,9 +76,9 @@ async def shortlink(m, message):
 
 ◇ **{title}**
 
-◇ **Yourlink :** {youlink}
+◇ **Your Link :** {youlink}
 
-☘️ **Shortlink :** {shortlink}
+☘️ **Short Link :** {shortlink}
 
 ◇──────────────────────────◇
 """
