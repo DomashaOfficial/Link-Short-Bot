@@ -36,7 +36,7 @@ AnyMediaBot = Client(
    bot_token=Config.BOT_TOKEN,
 )
 
-IMG = "https://telegra.ph/file/6c7f2cbb5af2732b723d7.jpg"
+IMG = "https://telegra.ph/file/dca764cc4a75fadfc7fde.jpg"
 
 REPLY_MARKUP = InlineKeyboardMarkup(
     [
