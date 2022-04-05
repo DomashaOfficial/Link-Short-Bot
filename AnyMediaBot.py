@@ -50,11 +50,13 @@ REPLY_MARKUP = InlineKeyboardMarkup(
 )
 START_TEXT = """
 Hello 👋👋
-I am Link Short Bot 🔗 
+🔅 I am a powerful Lιɳƙ Sԋσɾƚɳҽɾ Bσƚ.  Send me the long link you have. I will shorten it.  🔗 
 
 🤷‍♂️ Help
   🔗 Link Short
     /short [Link]
+   
+💻Powered By @Dr_Stranger_Botz_Infinity
 
 """
 @AnyMediaBot.on_message(filters.command("start"))
